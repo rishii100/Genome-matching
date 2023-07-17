@@ -21,7 +21,7 @@ The repository contains the following code snippets:
 
 **readGenome(filename)**: This function reads a genome sequence from a file and returns it as a string.
 
-**naive(p, t)**: This function performs a naive exact pattern matching algorithm. It finds all occurrences of a pattern ` p `in a text ` t ` and returns a list of starting positions.
+**naive(p, t)**: This function performs a naive exact pattern matching algorithm. It finds all occurrences of a pattern ` p ` in a text ` t ` and returns a list of starting positions.
 
 **generateReads(genome, numReads, readLen)**: This function generates random reads from a given genome. It takes the genome sequence, the number of reads to generate, and the desired read length as inputs. It returns a list of randomly generated reads.
 
