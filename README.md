@@ -29,4 +29,4 @@ generateReads(genome, numReads, readLen): This function generates random reads f
 The code snippets are written in Python and do not have any external dependencies.
 
 ## License:
-This code is released under the <a href="[https://youtu.be/xEVL1sQNLLY](https://github.com/rishii100/Genome-matching/blob/main/LICENSE)https://github.com/rishii100/Genome-matching/blob/main/LICENSE"> MIT LICENSE </a>.
+This code is released under the <a href="https://github.com/rishii100/Genome-matching/blob/main/LICENSE)https://github.com/rishii100/Genome-matching/blob/main/LICENSE"> MIT LICENSE </a>.
