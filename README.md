@@ -15,3 +15,18 @@ This repository contains code snippets for basic genomic sequence analysis tasks
 3.Open the notebook file containing the code snippets.
 
 4.Execute each code cell in the notebook to see the output and understand the functionality of each code snippet.
+
+## Contents
+The repository contains the following code snippets:
+
+readGenome(filename): This function reads a genome sequence from a file and returns it as a string.
+
+naive(p, t): This function performs a naive exact pattern matching algorithm. It finds all occurrences of a pattern p in a text t and returns a list of starting positions.
+
+generateReads(genome, numReads, readLen): This function generates random reads from a given genome. It takes the genome sequence, the number of reads to generate, and the desired read length as inputs. It returns a list of randomly generated reads.
+
+## Dependencies:
+The code snippets are written in Python and do not have any external dependencies.
+
+## License:
+This code is released under the MIT License  <a href="https://youtu.be/xEVL1sQNLLY"> MIT LICENSE </a>.
